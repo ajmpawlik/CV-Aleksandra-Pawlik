@@ -40,16 +40,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Diploma in Economics**
 * Specialisation in Banking and Finance
 
-### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2009 - June 2013)
+#### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2009 - June 2013)
 **MA in Ethnology and Anthropology of Culture**
 Research and thesis focused on the labor market tactics undertaken by Polish immigrants in Stockholm. Fieldwork in Stockholm, Sweden. Graudated with: 4.61/5.0
 
-### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2006 - June 2009)
+#### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2006 - June 2009)
 **BA in Ethnology and Anthropology of Culture** 
 Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research. 
 Graduated wih 4.18/5.0 
 
-### University of Warsaw, Institute of Journalism and Social Communication (October 2007 - June 2010) 
+#### University of Warsaw, Institute of Journalism and Social Communication (October 2007 - June 2010) 
 **BA in Journalism and Social Communication**
 * Member of Laboratory of Reportage 
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
@@ -72,8 +72,8 @@ Graduated with 4.08/5.0
 
 ## In a spare time
 * I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
-* I enjoy sailing - sailed on tallships across Meditereanan Sea, Careebean Sea and on smaller vessels Baltic Sea. 
+* I enjoy sailing - sailed on tallships across Meditereanan Sea, Careebean Sea and on smaller vessels on Baltic Sea. 
 * I enjoy bouldering - that's a relatively new but it will stay for good
-* I enjoy travelling and staying in a place for longer - 5 years in Afghanistan are a good example. 
-* I enjoy reading non-fiction
+* I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
+* I enjoy reading non-fiction books, reportages, analysis and anthropological monographs. 
 
