@@ -106,9 +106,9 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 *Newsroom reporter and reportage author*
 
 ## In a spare time
-* I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
-* I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels, the Baltic Sea. 
-* I enjoy bouldering - that's a relatively new but it will stay for good
-* I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
-* I enjoy reading non-fiction books, reportages, analysis and anthropological monographs. 
+:tent: I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
+:sailboat: I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels, the Baltic Sea. 
+🧗‍♀️I enjoy bouldering - that's a relatively new but it will stay for good
+:baggage_claim: I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
+:green_book:I enjoy reading non-fiction books, reportages, analysis and anthropological monographs. 
 
