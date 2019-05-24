@@ -1,5 +1,4 @@
-## Your Name
-
+## Aleksandra Pawlik 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -35,6 +34,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
+
+### UNIVERSITY OF LONDON, SCHOOL OF AFRICAN AND ORIENTAL STUDIES (September 2016 - June 2018)
+DIPLOMA IN ECONOMICS
+Specialisation in Banking and Finance
 
 - Subject, any specialisms
 - Grade
