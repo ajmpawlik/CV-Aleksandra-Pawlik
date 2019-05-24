@@ -2,7 +2,7 @@
 
 I am at the begining of my path as a _xxxxx_ junior developer secialising in xxxx. I am building on my experiences as the in research for international development and evaluations of humanitarian programmes with extensive fieldwork experience in Central Asia. I managed, designed and consulted on multiple intervention reviews providing actionable and human-centered insights for the implementers and clients. I am qulitative research methods savvy with a background in media and economics. _And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
 
-## Skills
+## Skills (SECTION TBD DURING THE ON-SITE COURSE)
 
 #### This Skill
 
