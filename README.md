@@ -37,9 +37,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of London, School of African and Oriental Studies (September 2016 - June 2018)
 
-DIPLOMA IN ECONOMICS
+**DIPLOMA IN ECONOMICS**
 
-Specialisation in Banking and Finance
+* Specialisation in Banking and Finance
 
 - Subject, any specialisms
 - Grade
