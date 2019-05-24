@@ -66,15 +66,15 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 ## Experience
 
-**Coffey, A TETRA TECH Company** (Dec 2016 to Apr 2019) London, United Kingdom :uk:
+:uk: **Coffey, A TETRA TECH Company** (Dec 2016 to Apr 2019) London, United Kingdom 
 
 *External Consultant - Qualitative Research Specialist*  
 
-**Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan :afghanistan: / Wageningen, Netherlands :netherlands:
+:afghanistan::netherlands: **Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands 
 
 *Monitoring and Evaluation Adviser*  
 
-**United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015) :netherlands:
+:netherlands **United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015) :
 *Migration Research Intern*
 
 **Internews** (Dec 2012 to Dec 2013) Kabul, Afghanistan :afghanistan:
