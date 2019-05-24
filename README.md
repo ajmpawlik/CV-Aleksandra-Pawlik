@@ -57,7 +57,7 @@ Graduated wih 4.18/5.0
 
 #### University of Warsaw, Institute of Journalism and Social Communication (October 2007 - June 2010) 
 **BA in Journalism and Social Communication**
-* Member of Laboratory of Reportage 
+* Member of Laboratory of Reportage - specialisation in long-form journalism.
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
 
 Graduated with 4.08/5.0
@@ -68,14 +68,14 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Coffey, A TETRA TECH Company** (December 2016 to April 2019) London, United Kingdom   
+*External Consultant - Qualitative Research Specialist*  
+**Wageningen UR, Centre for Development Innovation, ATVET** (January 2014 to August 2016)   
+*Monitoring and Evaluation Adviser*  
 
 ## In a spare time
 * I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
-* I enjoy sailing - sailed on tallships across Mediterranean Sea, Caribbean Sea, and on smaller vessels on Baltic Sea. 
+* I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels, the Baltic Sea. 
 * I enjoy bouldering - that's a relatively new but it will stay for good
 * I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
 * I enjoy reading non-fiction books, reportages, analysis and anthropological monographs. 
