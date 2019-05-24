@@ -39,7 +39,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Specialisation in Banking and Finance
 
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2009 - Jun 2013)
-** :scroll: MA in Ethnology and Anthropology of Culture**
+**:scroll: MA in Ethnology and Anthropology of Culture**
 
 Research and thesis focused on the labor market tactics undertaken by Polish immigrants in Stockholm. Fieldwork in Stockholm, Sweden. 
 
