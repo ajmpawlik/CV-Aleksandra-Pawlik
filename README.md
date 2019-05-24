@@ -1,5 +1,6 @@
 ## Aleksandra Pawlik 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+A _xxxxx_ junior developer secialising in xxxx. Building on the experiences of anthropologist in research for international development. Managed, designed and consulted on multiple program evaluations providing actionable human-centered insights for the implementers and clients. Quantitative research methods savvy with a background in media and economics._And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
 
 ## Skills
 
