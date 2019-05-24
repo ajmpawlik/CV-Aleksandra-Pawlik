@@ -75,7 +75,7 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 **United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015) 
 *Migration Research Intern*
 
-**Internews** (Dec 2012 to Dec 2013) Kabul, Afghanistan :afghanistan:
+**Internews** (Dec 2012 to Dec 2013) Kabul, Afghanistan 
 *Programme Offcier / Monitoring and Evaluation Officer*
 
 **Rosenstock Legal Services** (Apr 2012 to Dec 2012) Kabul, Afghanistan :afghanistan:
