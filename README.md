@@ -87,8 +87,7 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 **CEBOS Public Opinion Research Centre** (Mar 2011 to Dec 2011) Warsaw, Poland :poland:
 *Researcher / Enumerator*
 
-:poland:**PASSA The Weekly Magazine** (Mar 2011 to Dec 2011) Warsaw, Poland 
-
+**PASSA The Weekly Magazine** (Mar 2011 to Dec 2011) Warsaw, Poland :poland:
 *Journalist*
 
 **Press Club Poland** (Nov 2009 to May 2010) Warsaw, Poland :poland:
