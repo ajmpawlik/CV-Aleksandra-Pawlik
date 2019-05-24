@@ -109,7 +109,7 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 ## In a spare time
 :mountain_snow: I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
 
-:sailboat: I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels, the Baltic Sea. 
+:sailboat: I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels on the Baltic Sea. 
 
 🧗‍♀️I enjoy bouldering - it supports focus 
 
