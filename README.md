@@ -70,8 +70,12 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 **Coffey, A TETRA TECH Company** (December 2016 to April 2019) London, United Kingdom   
 *External Consultant - Qualitative Research Specialist*  
-**Wageningen UR, Centre for Development Innovation, ATVET** (January 2014 to August 2016)   
+**Wageningen UR, Centre for Development Innovation, ATVET** (January 2014 to August 2016) Kabul, Afghanistan / Wageningen, Netherlands   
 *Monitoring and Evaluation Adviser*  
+**United Nations University MERIT Maastricht School of Governance** (December 2014 to March 2015) 
+*Migration Research Intern*
+**Internews** (December 2012 to December 2013) 
+*Programme Offcier / Monitoring and Evaluation Officer*
 
 ## In a spare time
 * I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
