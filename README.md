@@ -68,22 +68,31 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 **Coffey, A TETRA TECH Company** (Dec 2016 to Apr 2019) London, United Kingdom 
 *External Consultant - Qualitative Research Specialist*  
+
 **Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands   
 *Monitoring and Evaluation Adviser*  
+
 **United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015) 
 *Migration Research Intern*
+
 **Internews** (Dec 2012 to Dec 2013) Kabul, Afghanistan :afghanistan:
 *Programme Offcier / Monitoring and Evaluation Officer*
+
 **Rosenstock Legal Services** (Apr 2012 to Dec 2012) Kabul, Afghanistan :afghanistan:
 *Head of Finance and Administration*
+
 **Radio Youth FM 97.5** (Dec 2011 to Apr 2012) Kabul, Afghanistan :afghanistan:
 *Business Development Managager / Radio Host*
+
 **CEBOS Public Opinion Research Centre** (Mar 2011 to Dec 2011) Warsaw, Poland :poland:
 *Researcher / Enumerator*
+
 **PASSA The Weekly Magazine** (Mar 2011 to Dec 2011) Warsaw, Poland :poland:
 *Journalist*
+
 **Press Club Poland** (Nov 2009 to May 2010) Warsaw, Poland :poland:
 *Office Manager*
+
 **Radio Kampus** (Aug 2008 to Aug 2009) Warsaw, Poland :poland:
 *Newsroom reporter and reportage author*
 
