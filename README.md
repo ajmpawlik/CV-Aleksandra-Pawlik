@@ -35,8 +35,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-#### UNIVERSITY OF LONDON, SCHOOL OF AFRICAN AND ORIENTAL STUDIES (September 2016 - June 2018)
+#### University of London, School of African and Oriental Studies (September 2016 - June 2018)
+
 DIPLOMA IN ECONOMICS
+
 Specialisation in Banking and Finance
 
 - Subject, any specialisms
