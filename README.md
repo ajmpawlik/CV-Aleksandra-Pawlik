@@ -57,8 +57,6 @@ Graduated wih 4.18/5.0
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
 Graduated with 4.08/5.0
 
-#### Any other qualifications
-
 #### University of Oxford, Departament for Continuing Education (January 2016 - March 2016)
 
 International Labour Migration: Economics, Politics and Ethics (Short Course)
