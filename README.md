@@ -57,13 +57,11 @@ Graduated wih 4.18/5.0
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
 Graduated with 4.08/5.0
 
-
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
 #### Any other qualifications
+
+#### University of Oxford, Departament for Continuing Education (January 2016 - March 2016)
+
+International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 ## Experience
 
@@ -74,7 +72,7 @@ Graduated with 4.08/5.0
 
 ## In a spare time
 * I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
-* I enjoy sailing - sailed on tallships across Meditereanan Sea, Careebean Sea and on smaller vessels on Baltic Sea. 
+* I enjoy sailing - sailed on tallships across Mediterranean Sea, Caribbean Sea, and on smaller vessels on Baltic Sea. 
 * I enjoy bouldering - that's a relatively new but it will stay for good
 * I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
 * I enjoy reading non-fiction books, reportages, analysis and anthropological monographs. 
