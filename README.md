@@ -110,9 +110,9 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 :sailboat: I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels, the Baltic Sea. 
 
-🧗‍♀️I enjoy bouldering - that's a relatively new but it will stay for good
+🧗‍♀️I enjoy bouldering - it supports focus 
 
-:baggage_claim: I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
+🧳 I enjoy travelling and staying in a place for longer - 5 years in Afghanistan is a good example. 
 
 :green_book:I enjoy reading non-fiction books, reportages, analysis and anthropological monographs. 
 
