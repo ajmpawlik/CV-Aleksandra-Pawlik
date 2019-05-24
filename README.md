@@ -48,7 +48,8 @@ Research and thesis focused on the labor market tactics undertaken by Polish imm
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2006 - June 2009)
 **BA in Ethnology and Anthropology of Culture** 
 
-Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research. 
+* Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research. 
+* Published results of the research in the joint book publication “ON THE BORDERLAND OF <NEW EUROPE>. POLISH – UKRAINIAN NEIGHBORHOOD”, Red. M. ZOWCZAK, Warsaw, 2010
 Graduated wih 4.18/5.0 
 
 #### University of Warsaw, Institute of Journalism and Social Communication (October 2007 - June 2010) 
