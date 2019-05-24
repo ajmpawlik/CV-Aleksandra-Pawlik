@@ -34,20 +34,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-#### University of London, School of African and Oriental Studies (September 2016 - June 2018)
+#### University of London, School of African and Oriental Studies (Sep 2016 - Jun 2018)
 **Diploma in Economics**
 * Specialisation in Banking and Finance
 
-#### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2009 - June 2013)
+#### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2009 - Jun 2013)
 **MA in Ethnology and Anthropology of Culture**
 
 Research and thesis focused on the labor market tactics undertaken by Polish immigrants in Stockholm. Fieldwork in Stockholm, Sweden. 
 
 Graudated with: 4.61/5.0
 
-#### University of Warsaw, Institute of Ethnology and Anthropology of Culture (October 2006 - June 2009)
+#### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2006 - Jun 2009)
 **BA in Ethnology and Anthropology of Culture** 
 
 * Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research. 
@@ -55,27 +53,39 @@ Graudated with: 4.61/5.0
 
 Graduated wih 4.18/5.0 
 
-#### University of Warsaw, Institute of Journalism and Social Communication (October 2007 - June 2010) 
+#### University of Warsaw, Institute of Journalism and Social Communication (Oct 2007 - Jun 2010) 
 **BA in Journalism and Social Communication**
 * Member of Laboratory of Reportage - specialisation in long-form journalism.
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
 
 Graduated with 4.08/5.0
 
-#### University of Oxford, Departament for Continuing Education (January 2016 - March 2016)
+#### University of Oxford, Departament for Continuing Education (Jan 2016 - Mar 2016)
 
 International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 ## Experience
 
-**Coffey, A TETRA TECH Company** (December 2016 to April 2019) London, United Kingdom   
+**Coffey, A TETRA TECH Company** (Dec 2016 to Apr 2019) London, United Kingdom 
 *External Consultant - Qualitative Research Specialist*  
-**Wageningen UR, Centre for Development Innovation, ATVET** (January 2014 to August 2016) Kabul, Afghanistan / Wageningen, Netherlands   
+**Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands   
 *Monitoring and Evaluation Adviser*  
-**United Nations University MERIT Maastricht School of Governance** (December 2014 to March 2015) 
+**United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015) 
 *Migration Research Intern*
-**Internews** (December 2012 to December 2013) 
+**Internews** (Dec 2012 to Dec 2013) Kabul, Afghanistan :afghanistan:
 *Programme Offcier / Monitoring and Evaluation Officer*
+**Rosenstock Legal Services** (Apr 2012 to Dec 2012) Kabul, Afghanistan :afghanistan:
+*Head of Finance and Administration*
+**Radio Youth FM 97.5** (Dec 2011 to Apr 2012) Kabul, Afghanistan :afghanistan:
+*Business Development Managager / Radio Host*
+**CEBOS Public Opinion Research Centre** (Mar 2011 to Dec 2011) Warsaw, Poland :poland:
+*Researcher / Enumerator*
+**PASSA The Weekly Magazine** (Mar 2011 to Dec 2011) Warsaw, Poland :poland:
+*Journalist*
+**Press Club Poland** (Nov 2009 to May 2010) Warsaw, Poland :poland:
+*Office Manager*
+**Radio Kampus** (Aug 2008 to Aug 2009) Warsaw, Poland :poland:
+*Newsroom reporter and reportage author*
 
 ## In a spare time
 * I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
