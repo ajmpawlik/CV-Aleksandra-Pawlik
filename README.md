@@ -14,11 +14,11 @@
 [Experience ](#experience) |
 [Education ](#education)
 
-</div>
-
 
 I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
+
+</div>
 
 <div>
 
