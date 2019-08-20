@@ -21,7 +21,13 @@
 
 I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the cross-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
+<div>
+
+<div align="center">
+
 <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/Ruby-216%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/JavaScript-62%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/HTML-60%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/CSS-43%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/Python-24%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt=""></a>
+
+</div>
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
