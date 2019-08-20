@@ -106,6 +106,8 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 *Office Manager*
 
+Assisted in daily operations of the office, guest management, and the organization of events for the Club members, and the general public.
+
 :poland: **Radio Kampus** (Aug 2008 to Aug 2009) Warsaw, Poland
 
 *Newsroom reporter and reportage author*
