@@ -29,14 +29,18 @@ I am an early career full-stack software developer, recently graduated from Make
 
 </div>
 
-## Projects
+## Most Relevant Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
 |--|--|--|--|--|
 |<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python, Unittest |  https://forest-code.herokuapp.com |
 |<a href="https://acebook-off-the-rails.herokuapp.com ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails, HTML, CSS, Capybara, RSpec, Selenium-web driver, Travis, CodeClimate, Heroku | https://acebook-off-the-rails.herokuapp.com |
 
 
-## Skills (SECTION TBD DURING THE ON-SITE COURSE)
+## Skills 
+
+- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Fast, independent learner [PROVIDE EVIDENCE]
+- Great collaborator [PROVIDE EVIDENCE]
 
 #### This Skill
 
@@ -58,10 +62,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (Apr 2019 to Aug 2019)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 * Ruby, RSpec, Rails, Capybara, Sinatra
 * JavaScript, jQuery, Jasmin
