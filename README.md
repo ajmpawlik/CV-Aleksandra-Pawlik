@@ -29,7 +29,7 @@ I am an early career full-stack software developer, recently graduated from Make
 
 </div>
 
-## Most Relevant Projects
+## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
 |--|--|--|--|--|
 |<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python - Language Development, Unittest - Testing Framework |  TBD |
@@ -63,14 +63,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (Apr 2019 to Aug 2019)
 
+During the 16 weeks of intensive bootcamp I gained experience in:
+
+Test-Driven Development with the use:
 * Ruby, RSpec, Rails, Capybara, Sinatra
 * JavaScript, jQuery, Jasmin
 * Python, unittest.mock
 * PostgreSQL
 * Version control through Git and GitHub
-* Agile/XP
-* TDD
-* OOP, MVC
+
+The key projects included:
+* developement of the Python-based forest-themed programming language Forest: https://github.com/lucianmot/f.rest
+* creation of the Acebook platform, Ruby on Rails app mirroring Facebook functionalities: https://acebook-off-the-rails.herokuapp.com
+
+I acquired the ability and appreciation for pair programming. I am familiar with modeling along the MVC lines, and creating applications following the principles of object-oriented programming.
+
+I worked in three self-organizing teams leaning on the agile methodology principles. With my colleagues we captured the spirit of teamwork on the two vlog channels, see linked.
+
+All my efforts a Makers were guided by the Extreme Programming Values.
 
 #### University of London, School of African and Oriental Studies (Sep 2016 - Jun 2018)
 **:scroll: Diploma in Economics**
