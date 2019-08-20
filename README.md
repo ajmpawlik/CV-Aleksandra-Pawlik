@@ -73,18 +73,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * OOP, MVC
 
 #### University of London, School of African and Oriental Studies (Sep 2016 - Jun 2018)
-** Diploma in Economics**
+**:scroll: Diploma in Economics**
 * Specialisation in Banking and Finance
 
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2009 - Jun 2013)
-** MA in Ethnology and Anthropology of Culture**
+**:scroll: MA in Ethnology and Anthropology of Culture**
 
 Research and thesis focused on the labor market tactics undertaken by Polish immigrants in Stockholm. Fieldwork in Stockholm, Sweden.
 
 Graudated with: 4.61/5.0
 
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2006 - Jun 2009)
-** BA in Ethnology and Anthropology of Culture**
+**:scroll: BA in Ethnology and Anthropology of Culture**
 
 * Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research.
 * Published results of the research in the joint book publication “ON THE BORDERLAND OF <NEW EUROPE>. POLISH – UKRAINIAN NEIGHBORHOOD”, Red. M. ZOWCZAK, Warsaw, 2010
@@ -92,7 +92,7 @@ Graudated with: 4.61/5.0
 Graduated wih 4.18/5.0
 
 #### University of Warsaw, Institute of Journalism and Social Communication (Oct 2007 - Jun 2010)
-** BA in Journalism and Social Communication**
+**:scroll:BA in Journalism and Social Communication**
 * Member of Laboratory of Reportage - specialisation in long-form journalism.
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
 
