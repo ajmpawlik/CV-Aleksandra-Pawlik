@@ -68,17 +68,13 @@ During the 16 weeks of intensive bootcamp I gained experience in:
 Test-Driven Development with the use:
 * Ruby, RSpec, Rails, Capybara, Sinatra
 * JavaScript, jQuery, Jasmin
-* Python, unittest.mock
+* Python, Unittest
 * PostgreSQL
 * Version control through Git and GitHub
 
-The key projects included:
-* developement of the Python-based forest-themed programming language Forest: https://github.com/lucianmot/f.rest
-* creation of the Acebook platform, Ruby on Rails app mirroring Facebook functionalities: https://acebook-off-the-rails.herokuapp.com
+I acquired the ability and appreciation for pair programming. I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.
 
-I acquired the ability and appreciation for pair programming. I am familiar with modeling along the MVC lines, and creating applications following the principles of object-oriented programming.
-
-I worked in three self-organizing teams leaning on the agile methodology principles. With my colleagues we captured the spirit of teamwork on the two vlog channels, see linked.
+I worked in three self-organising teams leaning on the agile methodology principles. With my colleagues we captured the spirit of teamwork on the two vlog channels, see linked.
 
 All my efforts a Makers were guided by the Extreme Programming Values.
 
