@@ -1,6 +1,6 @@
 ## Aleksandra Pawlik
 
-I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experiences in research for international development with extensive fieldwork experience in Afghanistan. I managed, designed and consulted on multiple evaluations providing actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - mostly in Afghanistan. I provided actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
 ## Skills (SECTION TBD DURING THE ON-SITE COURSE)
 
@@ -114,7 +114,7 @@ Assisted in daily operations of the office, guest management, and the organizati
 
 Delivered daily news live on-air. Created and recorded reportages covering areas of science and travel – interviewed Polish academics and explorers.
 
-## In a spare time
+## Interests
 :mountain_snow: I enjoy hiking - walked Camino de Santiago three times: the French Way, the Protugese Way and Camino Primitivo
 
 :sailboat: I enjoy sailing - sailed on tallships across the Mediterranean Sea, the Caribbean Sea, and on smaller vessels on the Baltic Sea.
