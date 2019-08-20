@@ -13,14 +13,22 @@
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[About me ](#about-me)
 
 </div>
 
 
 ## Aleksandra Pawlik
 
-I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the cross-country settings. I provided actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the cross-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+
+<a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/Ruby-216%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/JavaScript-62%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/HTML-60%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/CSS-43%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/Python-24%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/ajmpawlik"><img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt=""></a>
+
+## Projects
+| Title | Description | Development Timeframe | Technologies Used | Website |
+|--|--|--|--|--|
+|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python, Unittest |  https://forest-code.herokuapp.com |
+|<a href="https://acebook-off-the-rails.herokuapp.com ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails, HTML, CSS, Capybara, RSpec, Selenium-web driver, Travis, CodeClimate, Heroku | https://acebook-off-the-rails.herokuapp.com |
+
 
 ## Skills (SECTION TBD DURING THE ON-SITE COURSE)
 
