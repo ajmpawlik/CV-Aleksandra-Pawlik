@@ -2,8 +2,6 @@
 
 I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experiences in research for international development with extensive fieldwork experience in Afghanistan. I managed, designed and consulted on multiple evaluations providing actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
-_And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
-
 ## Skills (SECTION TBD DURING THE ON-SITE COURSE)
 
 #### This Skill
@@ -25,16 +23,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Apr 2019 to Aug 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* Ruby, RSpec, Rails, Capybara, Sinatra
+* JavaScript, jQuery, Jasmin
+* Python, unittest.mock
+* PostgreSQL
+* Version control through Git and GitHub
+* Agile/XP
+* TDD
+* OOP, MVC 
 
 #### University of London, School of African and Oriental Studies (Sep 2016 - Jun 2018)
 **:scroll: Diploma in Economics**
