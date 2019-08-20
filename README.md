@@ -1,6 +1,6 @@
 ## Aleksandra Pawlik 
 
-I am at the begining of my path as a _xxxxx_ junior developer secialising in xxxx. I am building on my experiences in research for international development and humanitarian programmes with extensive fieldwork experience in Central Asia. I managed, designed and consulted on multiple evaluations providing actionable and human-centered insights for the implementers and clients. I am qulitative research methods savvy with a background in media and economics. _And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
+I am an early career full stack software developer, recently graduated from Makers Academy. I am building on my experiences in research for international development and humanitarian programmes with extensive fieldwork experience in Afghanistan. I managed, designed and consulted on multiple evaluations providing actionable and human-centered insights for the implementers and clients. I am qulitative and quantitative research methods savvy with a background in anthropology, media and economics. _And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment._
 
 ## Skills (SECTION TBD DURING THE ON-SITE COURSE)
 
