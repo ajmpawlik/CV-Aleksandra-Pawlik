@@ -1,6 +1,26 @@
+<h1 align="center">Aleksandra Pawlik</h1>
+
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/aleksandrapawlik/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a  href="https://github.com/ajmpawlik"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a></p>
+
+</div>
+
+<div align="center">
+
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[About me ](#about-me)
+
+</div>
+
+
 ## Aleksandra Pawlik
 
-I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - mostly in Afghanistan. I provided actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the cross-country settings. I provided actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
 ## Skills (SECTION TBD DURING THE ON-SITE COURSE)
 
