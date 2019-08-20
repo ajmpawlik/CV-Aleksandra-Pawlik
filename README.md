@@ -74,7 +74,7 @@ Test-Driven Development with the use:
 
 I acquired the ability and appreciation for pair programming. I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.
 
-I worked in three self-organising teams leaning on the agile methodology principles. With my colleagues we captured the spirit of teamwork on the two vlog channels, see linked.
+I worked in three self-organising teams leaning on the agile methodology principles. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
 
 All my efforts a Makers were guided by the Extreme Programming Values.
 
