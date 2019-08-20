@@ -19,7 +19,7 @@
 
 ## Aleksandra Pawlik
 
-I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the cross-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
 <div>
 
@@ -32,7 +32,7 @@ I am an early career full-stack software developer, recently graduated from Make
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
 |--|--|--|--|--|
-|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python - Language Development, Unittest - Testing Framework |  TBD |
+|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python - Language Development, Unittest - Testing Framework |  Not finalised https://forest-code.herokuapp.com |
 |<a href="https://github.com/lucianmot/acebook-off-the-rails ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Devise - User Authentication, RubyCritic - Code Quality Analyser, Travis - CI, Heroku - Cloud Hosting, Bulma-Rails - CSS & Styling, SimpleCov - Code Coverage | https://acebook-off-the-rails.herokuapp.com |
 
 
