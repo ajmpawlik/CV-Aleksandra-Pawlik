@@ -1,4 +1,4 @@
-environment<h1 align="center">Aleksandra Pawlik</h1>
+<h1 align="center">Aleksandra Pawlik</h1>
 
 <div align="center">
 
@@ -49,15 +49,25 @@ Curiosity, thirst for understanding, and a desire for intellectual growth are at
 I have never shied from a challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result, had been promoted to the position of Head of Finance and Administration.  
 
 #### Great collaborator and team-builder
+I thrive working in the teams.
+
+Snap.hr -
+Talent.io
+Hands.hq - company
+
+
+yulife
+
+hack a job
+hackerrank - companies see the ranking
+
 
 
 ## Education
 
 #### Makers Academy (Apr 2019 to Aug 2019)
 
-During the 16 weeks of intensive bootcamp I gained experience in:
-
-Test-Driven Development with the use:
+During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development with the use:
 * Ruby, RSpec, Rails, Capybara, Sinatra
 * JavaScript, jQuery, Jasmin
 * Python, Unittest
