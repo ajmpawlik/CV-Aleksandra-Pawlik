@@ -40,7 +40,7 @@ I am an early career full-stack software developer, recently graduated from Make
 During my work as monitoring and evaluation consultant I created large-scale research designs, overseen data collections, analysed findings, and provided recommendations donors and implementers of the aid and development projects.
 
 #### Curious and passionate about technology
-In 2013 I have been working in the International NGO Internews Network focused on the media development. I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
+In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
 
 Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop learning basics of Python, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019.
 
