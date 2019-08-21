@@ -49,17 +49,11 @@ Curiosity, thirst for understanding, and a desire for intellectual growth are at
 I have never shied from a challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result, had been promoted to the position of Head of Finance and Administration.  
 
 #### Great collaborator and team-builder
-I thrive working in the teams.
-
-Snap.hr -
-Talent.io
-Hands.hq - company
+I thrive working in the teams. I used to work in various set-ups:
+* during my time at Makers I have been a member of the self-organising teams working following the agile principles. It was a great opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
+* while working an independent evaluator subcontracting for the London based Coffey International Developement
 
 
-yulife
-
-hack a job
-hackerrank - companies see the ranking
 
 
 
@@ -76,7 +70,7 @@ During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Dev
 
 I acquired the ability and appreciation for pair programming. I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.
 
-I worked in three self-organising teams leaning on the agile methodology principles. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
+I worked in three self-organising teams leaning on the agile methodology principles.
 
 All my efforts a Makers were guided by the Extreme Programming Values.
 
