@@ -10,7 +10,7 @@
 <div align="center">
 
 [Projects ](#projects) |
-[Skills ](#skills) |
+[Skills & Attitudes ](#skills) |
 [Experience ](#experience) |
 [Education ](#education)
 
@@ -35,12 +35,13 @@ I am an early career full-stack software developer, recently graduated from Make
 |<a href="https://github.com/lucianmot/acebook-off-the-rails ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Devise - User Authentication, RubyCritic - Code Quality Analyser, Travis - CI, Heroku - Cloud Hosting, Bulma-Rails - CSS & Styling, SimpleCov - Code Coverage | https://acebook-off-the-rails.herokuapp.com |
 
 
-## Skills
+## Skills & Attitudes
 
 #### Analytical thinker and creative problem solver  
-During my time
+During
 
-#### Curious and passionate technology.
+#### Curious and passionate about technology.
+In 2012 I have been working in the International NGO Internews Network focused on media development. One of the projects I have been involved in was Kabul Innovation Lab, bringing together media outlets, and software developers from across Afghanistan to build applications useful for TV stations, and press with the tech-for-good approach. Observing the collaboration between programmers and media people lead me to see 
 
 #### Avid, fast and independent learner
 
@@ -52,10 +53,6 @@ I have never shied from a challenge, and experienced learning from scratch "on t
 I thrive working in the teams. I used to work in various set-ups:
 * during my time at Makers I have been a member of the self-organising teams working following the agile principles. It was a great opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
 * while working an independent evaluator subcontracting for the London based Coffey International Development I have been in charge of operations
-
-
-
-
 
 ## Education
 
