@@ -41,7 +41,7 @@ I am an early career full-stack software developer, recently graduated from Make
 During
 
 #### Curious and passionate about technology.
-In 2012 I have been working in the International NGO Internews Network focused on the media development. One of the projects I have been involved in was the USAID funded Kabul Innovation Lab, bringing together media outlets, and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
+In 2013 I have been working in the International NGO Internews Network focused on the media development. One of the projects I have been involved in was the USAID funded Kabul Innovation Lab, bringing together media outlets, and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
 
 Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop learning basics of Python, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019.
 
@@ -49,12 +49,13 @@ Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop lea
 
 Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained and repeatedly confronted it with the reality through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
 
-I enjoyed the process of learning "on the job". Without prior experience I have been entrusted with managing finance and administration of an American law firm in Kabul, and took on this challenge. The successful introduction an improved accounting system I delivered within the first quarter of my engagement in the company proved that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period of time.
+I enjoyed the process of learning "on the job". In 2012, without prior experience I have been entrusted with managing finance and administration of an American law firm in Kabul, and took on this challenge. The successful introduction an improved accounting system I delivered within the first quarter of my engagement in the company proved that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period of time.
 
 #### Great collaborator and team-builder
-I thrive working in the teams. I used to work in various set-ups:
+I thrive in teams. I used to work in various set-ups:
 * during my time at Makers I have been a member of the self-organising teams following the agile principles. It was a great opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
-* while working an evaluator subcontracting for the London based Coffey International Development I have been in charge of operations of task-focused teams comprised of remotely working external contractors. It allowed me to
+* while working as an evaluator subcontracting for the London based Coffey International Development, I have been in charge of operations of task-focused teams comprised of remotely working contractors and external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
+*
 
 ## Education
 
@@ -74,18 +75,18 @@ I worked in three self-organising teams leaning on the agile methodology princip
 All my efforts a Makers were guided by the Extreme Programming Values.
 
 #### University of London, School of African and Oriental Studies (Sep 2016 - Jun 2018)
-**:scroll: Diploma in Economics**
+**Diploma in Economics**
 * Specialisation in Banking and Finance
 
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2009 - Jun 2013)
-**:scroll: MA in Ethnology and Anthropology of Culture**
+**MA in Ethnology and Anthropology of Culture**
 
 Research and thesis focused on the labor market tactics undertaken by Polish immigrants in Stockholm. Fieldwork in Stockholm, Sweden.
 
 Graudated with: 4.61/5.0
 
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2006 - Jun 2009)
-**:scroll: BA in Ethnology and Anthropology of Culture**
+**BA in Ethnology and Anthropology of Culture**
 
 * Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research.
 * Published results of the research in the joint book publication “ON THE BORDERLAND OF <NEW EUROPE>. POLISH – UKRAINIAN NEIGHBORHOOD”, Red. M. ZOWCZAK, Warsaw, 2010
@@ -93,7 +94,7 @@ Graudated with: 4.61/5.0
 Graduated wih 4.18/5.0
 
 #### University of Warsaw, Institute of Journalism and Social Communication (Oct 2007 - Jun 2010)
-**:scroll:BA in Journalism and Social Communication**
+**BA in Journalism and Social Communication**
 * Member of Laboratory of Reportage - specialisation in long-form journalism.
 * Research and thesis focused on the migration discourse in contemporary Polish media. Desk research.
 
