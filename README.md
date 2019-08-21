@@ -113,6 +113,13 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 *External Consultant - Qualitative Research Specialist*  
 
+Provides Qualitative Research Specialist services (Contractor) within evaluations and monitoring reviews for various international development interventions. The main areas of engagement involved coordination of the research processes: management of work of consultants and researchers for quality and timely delivery, as well as preparation of technical inputs: research designs including preparation of evaluation frameworks, research instruments – survey questionnaires, interview, focus group discussion, and observation guidelines, as well as fieldwork oversight, data analysis, reporting, and workshop facilitation. The projects cover:
+•	the in-depth qualitative case studies of the large agricultural facilities operations across Afghanistan and their relations with local stakeholders - with use of Atlas.ti and Dedoose. The research aimed to give a voice to all the parties affected by UK Department for International Development funded Comprehensive Agricultural and Rural Development Facility, and present recommendations for the implementers.
+•	the formal primary and secondary analysis of the qualitative data for monitoring of international development interventions focused on business acceleration of enterprises that benefit girls in Africa and East Asia – SPRING, and improvement of food security in Zimbabwe under The Zimbabwe Livelihoods and Food Security Programme;
+•	the contribution to the set-up of the European Commission Partnership Instrument Monitoring System through reporting database development, including the revision of indicators.
+Trained enumerators in the research methods and the use of research tools including mobile-phone-based data collection via innovative COSMOS (Coffey Spatial Mobile Solution) system.
+Conducted workshops with data analysts to train them in the use of Dedoose qualitative data exploration tool
+
 :afghanistan::netherlands: **Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands
 
 *Monitoring and Evaluation Adviser*  
