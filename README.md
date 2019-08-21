@@ -40,13 +40,13 @@ I am an early career full-stack software developer, recently graduated from Make
 #### Analytical thinker and creative problem solver  
 During my time
 
-#### Curious and passionate about code.
+#### Curious and passionate technology.
 
 #### Avid, fast and independent learner
 
-Curiosity, thirst for understanding, and a desire of the intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained, and confronted it with the reality working as a researcher/monitoring and evaluation consultant - drawing from the the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
+Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained and confronted it with the reality, working as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
 
-I have never shied from challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result had been promoted to the position of Head of Finance and Administration.  
+I have never shied from a challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result, had been promoted to the position of Head of Finance and Administration.  
 
 #### Great collaborator and team-builder
 
