@@ -37,16 +37,14 @@ I am an early career full-stack software developer, recently graduated from Make
 
 ## Skills
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-### Analytical thinker and creative problem solver  
+#### Analytical thinker and creative problem solver  
 During my time
+
+#### Curious and passionate about the code. 
 
 #### Avid, fast and independent learner
 
-Curiosity, thirst for understanding, and a desire of the intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic set-ups. I have always been interested in practical applications of the knowledge I gained, and confronted it with the reality working as a researcher/monitoring and evaluation consultant - drawing from the the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
+Curiosity, thirst for understanding, and a desire of the intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained, and confronted it with the reality working as a researcher/monitoring and evaluation consultant - drawing from the the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
 
 I have never shied from challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result had been promoted to the position of Head of Finance and Administration.  
 
@@ -144,7 +142,7 @@ Designed Project M&E Framework and M&E Plan for a complex intervention.
 
 Established M&E Department within the organisational structure, as well as recruited, trained and mentored 7 national M&E staff - strengthened their ability and to perform M&E tasks independently.
 
-Managed relations with M&E Unit of Deputy Ministry of Technical Vocational Education & Training, Ministry of Education. 
+Managed relations with M&E Unit of Deputy Ministry of Technical Vocational Education & Training, Ministry of Education.
 
 :netherlands: **United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015)
 
