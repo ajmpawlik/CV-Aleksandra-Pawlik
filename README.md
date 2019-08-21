@@ -1,4 +1,4 @@
-Introducingwithin<h1 align="center">Aleksandra Pawlik</h1>
+<h1 align="center">Aleksandra Pawlik</h1>
 
 <div align="center">
 
