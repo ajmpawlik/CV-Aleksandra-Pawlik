@@ -40,7 +40,7 @@ I am an early career full-stack software developer, recently graduated from Make
 #### Analytical thinker and creative problem solver  
 During my time
 
-#### Curious and passionate about the code. 
+#### Curious and passionate about code.
 
 #### Avid, fast and independent learner
 
@@ -48,24 +48,8 @@ Curiosity, thirst for understanding, and a desire of the intellectual growth are
 
 I have never shied from challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result had been promoted to the position of Head of Finance and Administration.  
 
-###
+#### Great collaborator and team-builder
 
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
