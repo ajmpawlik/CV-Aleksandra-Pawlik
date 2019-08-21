@@ -1,4 +1,4 @@
-<h1 align="center">Aleksandra Pawlik</h1>
+environment<h1 align="center">Aleksandra Pawlik</h1>
 
 <div align="center">
 
@@ -41,7 +41,18 @@ I am an early career full-stack software developer, recently graduated from Make
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-#### This Skill
+### Analytical thinker and creative problem solver  
+During my time
+
+#### Avid, fast and independent learner
+
+Curiosity, thirst for understanding, and a desire of the intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic set-ups. I have always been interested in practical applications of the knowledge I gained, and confronted it with the reality working as a researcher/monitoring and evaluation consultant - drawing from the the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
+
+I have never shied from challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result had been promoted to the position of Head of Finance and Administration.  
+
+###
+
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -124,6 +135,16 @@ Also, I facilitated workshops with data analysts to train in the use of Dedoose 
 :afghanistan::netherlands: **Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands
 
 *Monitoring and Evaluation Adviser*  
+
+Managed overall Monitoring and Evaluation (M&E) activities on Improving Agricultural Education in Afghanistan (ATVET) project, funded by Netherlands Ministry of Economic Affairs and Netherlands Ministry of Foreign Affairs.
+
+Planned, designed methodology and research tools, as well as managed the project baseline (2014) and mid-line (2015, 2016) studies: including oversight of the countrywide quantitative and qualitative research focused on the quality of education in Agricultural High Schools in Afghanistan - coordination of data collection for timely and quality of delivery, as well as hands-on involvement in National Agricultural Educational College mid-term evaluations: conducted in-depth interviews and focus group discussions with College cadre, and participant observations of the teaching activities. Applied a participatory approach that involved the client in the process of methodology design and analysis of the findings. Facilitated workshops where programme implementers created research questions and distilled key findings into action plans.
+
+Designed Project M&E Framework and M&E Plan for a complex intervention.
+
+Established M&E Department within the organisational structure, as well as recruited, trained and mentored 7 national M&E staff - strengthened their ability and to perform M&E tasks independently.
+
+Managed relations with M&E Unit of Deputy Ministry of Technical Vocational Education & Training, Ministry of Education. 
 
 :netherlands: **United Nations University MERIT Maastricht School of Governance** (Dec 2014 - Mar 2015)
 
