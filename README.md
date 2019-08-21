@@ -1,4 +1,4 @@
-<h1 align="center">Aleksandra Pawlik</h1>
+Introducingwithin<h1 align="center">Aleksandra Pawlik</h1>
 
 <div align="center">
 
@@ -41,13 +41,13 @@ I am an early career full-stack software developer, recently graduated from Make
 During
 
 #### Curious and passionate about technology.
-In 2012 I have been working in the International NGO Internews Network focused on media development. One of the projects I have been involved in was Kabul Innovation Lab, bringing together media outlets, and software developers from across Afghanistan to build applications useful for TV stations, and press with the tech-for-good approach. Observing the collaboration between programmers and media people lead me to see 
+In 2012 I have been working in the International NGO Internews Network focused on the media development. One of the projects I have been involved in was Kabul Innovation Lab, bringing together media outlets, and software developers from across Afghanistan to build applications useful for TV stations, and press with the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact. Since then I participated in Warsaw's edition of Geek Girls Carrot workshop learning basics of Python, contributed to work of blockchain London-based start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019.
 
 #### Avid, fast and independent learner
 
-Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained and confronted it with the reality, working as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
+Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained and repeatedly confronted it with the reality through working as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
 
-I have never shied from a challenge, and experienced learning from scratch "on the job". During my time in Rosenstock Legal Services, the American law firm based in Kabul, Afghanistan, I have been entrusted with managing company's financial and administrative activities including client relations regarding invoicing, managing tax payments and payroll. Thanks to this experience I learnt how to manage the back office of a company functioning in a multicultural setting, in a volatile environment, as well as how to run finance department according to the Afghan law. While starting without any prior experience, within the first quarter I implemented an improved accounting system, and as a result, had been promoted to the position of Head of Finance and Administration.  
+I enjoyed the process of learning "on the job", as when without prior experience I have been entrusted with managing finance and administration of an American law firm in Kabul. Introducing an improved accounting system within the first quarter of my engagement in the company proved that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period of time. 
 
 #### Great collaborator and team-builder
 I thrive working in the teams. I used to work in various set-ups:
