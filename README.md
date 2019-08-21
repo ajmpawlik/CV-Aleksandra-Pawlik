@@ -37,7 +37,7 @@ I am an early career full-stack software developer, recently graduated from Make
 ## Skills & Attitudes
 
 #### Analytical thinker
-During my work as monitoring and evaluation consultant I created large-scale research designs, overseen data collections, analysed findings, and provided recommendations donors and implementers of the aid and development projects.
+During my work as a monitoring and evaluation consultant, I created large-scale research designs, overseen data collections, analysed findings, and provided recommendations donors and implementers of the aid and development projects.
 
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
@@ -48,12 +48,12 @@ Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop lea
 
 Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of guiding principles that lead me to explore anthropology, media, and economics in the academic settings. I have always been interested in practical applications of the knowledge I gained and repeatedly confronted it with the reality through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
 
-I enjoyed the process of learning "on the job". In 2012, without prior experience I have been entrusted with managing finance and administration of an American law firm in Kabul, and took on this challenge. The successful introduction an improved accounting system I delivered within the first quarter of my engagement in the company proved that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period of time.
+I enjoyed the process of learning "on the job". In 2012, without prior experience, I have been entrusted with managing finance and administration of an American law firm in Kabul and took on this challenge. The successful introduction an improved accounting system I delivered within the first quarter of my engagement in the company proved that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period.
 
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
 
-While working as an evaluator subcontracting for the London based Coffey International Development, I have been in charge of operations of task-focused teams comprised of remotely working contractors and external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
+While working as an evaluator subcontracting for the London based Coffey International Development, I have been in charge of operations of task-focused teams comprised of contractors working remotely and external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
 
 ## Education
 
