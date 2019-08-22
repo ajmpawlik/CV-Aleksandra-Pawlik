@@ -15,7 +15,7 @@
 [Education ](#education)
 
 
-I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career full-stack software developer, recently graduated from Makers Academy. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations of aid programmes - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
 </div>
 
@@ -37,7 +37,7 @@ I am an early career full-stack software developer, recently graduated from Make
 ## Skills & Attitudes
 
 #### Analytical thinker
-During my work as a monitoring and evaluation consultant, I created large-scale research designs, overseen data collections, analysed findings, and provided recommendations donors and implementers of the aid and development projects.
+During my work as a monitoring and evaluation consultant, I created designs of large-scale research, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects.
 
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
@@ -53,7 +53,7 @@ I enjoyed the process of learning "on the job". In 2012, without prior experienc
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
 
-While working as an evaluator subcontracting for the London based Coffey International Development, I have been in charge of operations of task-focused teams comprised of contractors working remotely and external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
+While working as an evaluator subcontracting for the London-based Coffey International Development, I have been in charge of operations of task-focused teams comprised of contractors working remotely and of the external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
 
 ## Education
 
