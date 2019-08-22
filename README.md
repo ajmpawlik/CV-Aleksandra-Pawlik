@@ -15,7 +15,7 @@
 [Education ](#education)
 
 
-I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations of aid programmes - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations of aid interventions - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
 </div>
 
