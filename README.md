@@ -30,7 +30,7 @@ I am an early career full-stack software developer, recently graduated from Make
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
 |--|--|--|--|--|
-|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python - Language Development, Unittest - Testing Framework |  Not finalised https://forest-code.herokuapp.com |
+|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python - Language Development, Unittest - Testing Framework |  Work in progress|
 |<a href="https://github.com/lucianmot/acebook-off-the-rails ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Devise - User Authentication, RubyCritic - Code Quality Analyser, Travis - CI, Heroku - Cloud Hosting, Bulma-Rails - CSS & Styling, SimpleCov - Code Coverage | https://acebook-off-the-rails.herokuapp.com |
 
 
