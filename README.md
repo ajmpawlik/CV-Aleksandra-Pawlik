@@ -36,8 +36,8 @@ I am an early career full-stack software developer, recently graduated from Make
 
 ## Skills & Attitudes
 
-#### Analytical thinker
-During my work as a monitoring and evaluation consultant, I created designs of large-scale research, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. 
+#### Analytical thinker and creative problem solver
+During my work as a monitoring and evaluation consultant, I created designs of large-scale research, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. I gladly transferred my approach from writing evaluation reports to writing code - the appreciation of deep understanding of the tasks at hand, ability to divide complex information landscapes in to small and actionable chunks, and focus on the well planned solutions. 
 
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
@@ -47,6 +47,8 @@ Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop lea
 #### Avid, fast and independent learner
 
 Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore anthropology, media, and economics in the academic settings. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
+
+I enjoyed the self-led curriculum at Makers Academy that developed my skills in applying a methodical approach to solving new problems using industry best practice.
 
 <!-- I enjoyed the process of learning "on the job". In 2012, without prior experience, I have been entrusted with managing finance and administration of an American law firm in Kabul and took on this challenge. I successfully introduced an improved accounting system during the first quarter of my engagement in the company. Through that I proved to myself that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period. -->
 
