@@ -37,7 +37,7 @@ I am an early career software developer seeking a new challenge on my path towar
 ## Skills & Attitudes
 
 #### Analytical thinker and creative problem solver
-During my work as a monitoring and evaluation consultant, I created designs of large-scale research, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. I gladly transferred my approach from writing evaluation reports to writing code - the appreciation for a deep understanding of the tasks at hand, the ability to divide complex information landscapes into small and actionable chunks, and the focus on the well-planned solutions.
+During my work as a monitoring and evaluation consultant, I created designs of large-scale social studies, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. I gladly transferred my approach from writing evaluation reports to writing code - the appreciation for a deep understanding of the tasks at hand, the ability to divide complex information landscapes into small and actionable chunks, and the focus on the well-planned solutions.
 
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
