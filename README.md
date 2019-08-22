@@ -46,9 +46,7 @@ Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop lea
 
 #### Avid, fast and independent learner
 
-Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore anthropology, media, and economics in the academic settings. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
-
-I enjoyed the self-led curriculum at Makers Academy that developed my skills in applying a methodical approach to solving new problems using industry best practice.
+Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore anthropology, media, and economics in the academic settings. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade. I enjoyed the self-led curriculum at Makers Academy that allowed me to learn programming hands-on, solving new problems using industry best practice.
 
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
