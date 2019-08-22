@@ -53,7 +53,7 @@ I enjoyed the process of learning "on the job". In 2012, without prior experienc
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
 
-While working as an evaluator subcontracting for the London-based Coffey International Development, I have been in charge of operations of task-focused teams comprised of contractors working remotely and of the external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
+While working as an evaluator subcontracting for the London-based Coffey International Development, I have been in charge of task-focused teams comprised of contractors working remotely and of the external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
 
 ## Education
 
