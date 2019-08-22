@@ -37,7 +37,7 @@ I am an early career full-stack software developer, recently graduated from Make
 ## Skills & Attitudes
 
 #### Analytical thinker and creative problem solver
-During my work as a monitoring and evaluation consultant, I created designs of large-scale research, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. I gladly transferred my approach from writing evaluation reports to writing code - the appreciation of deep understanding of the tasks at hand, ability to divide complex information landscapes in to small and actionable chunks, and focus on the well planned solutions. 
+During my work as a monitoring and evaluation consultant, I created designs of large-scale research, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. I gladly transferred my approach from writing evaluation reports to writing code - the appreciation for a deep understanding of the tasks at hand, ability to divide complex information landscapes into small and actionable chunks and focus on the well-planned solutions.
 
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build applications useful for TV stations and press within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
@@ -49,8 +49,6 @@ Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop lea
 Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore anthropology, media, and economics in the academic settings. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade.
 
 I enjoyed the self-led curriculum at Makers Academy that developed my skills in applying a methodical approach to solving new problems using industry best practice.
-
-<!-- I enjoyed the process of learning "on the job". In 2012, without prior experience, I have been entrusted with managing finance and administration of an American law firm in Kabul and took on this challenge. I successfully introduced an improved accounting system during the first quarter of my engagement in the company. Through that I proved to myself that once focused on the task and exploration of best practices, there is no limit to what one can learn in a short period. -->
 
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
@@ -144,12 +142,12 @@ Participated in the literature review project focused on summarising maritime mi
 
 *__Programme Offcier / Monitoring and Evaluation Officer__*
 
-[Gender/Journalist Training] Supported project manager in the process of relations management with 4 local implementing partners for Innovative Tools to Enhance the Monitoring of Women’s Rights in Provincial Afghanistan program funded by DRL US Department of State.
+Supported project manager in the process of relations management with 4 local implementing partners for Innovative Tools to Enhance the Monitoring of Women’s Rights in Provincial Afghanistan program funded by DRL US Department of State.
 •	Coordinated development of innovative mapping tools for a visual database of sexual and gender-based violence with use of Ushahidi, IVR and FrontlineSMS, working with 2 local women rights organisations; strengthened reporting capacity of the partners by close mentoring of their staff responsible for monitoring processes.
 •	Designed M&E tools for digital security training sessions delivered to women’s rights organisation’s employees; was responsible for logistics and coordination of the workshop curriculum preparation.
 •	Monitored production and quality of content broadcasted by partner radio station focused on violence against women in Afghanistan.
 
-[Governance/Journalist Training] Responsible for monitoring and evaluation processes on Afghan Capacity for Media and Elections program funded by AusAID.
+ Responsible for monitoring and evaluation processes on Afghan Capacity for Media and Elections program funded by AusAID.
 •	Trained and mentored 4 local implementing partner organisations on an effective use of the activities monitoring tools.
 •	Tracked progress of the intervention and supported program manager in reporting to the donor.
 •	Contributed to Project Monitoring and Evaluation Plan for over 30 months of activities.
@@ -169,12 +167,7 @@ Coordinated office financial and administrative activities including client rela
 
 *__Business Development Managager / Radio Host__*
 
-The responsibilities covered building the client base, sales and marketing, organization of events and donor relationship management, as well as presenting a live radio show:
-•	Managed organization of the MTN Nawroz Kiting Festival 2012 with a live broadcast from 3 locations reaching 4000 participants and listeners in 5 provinces.
-•	Responsible for mentoring junior staff is sales and marketing techniques.
-•	Managed donor relations for $300,000 USAID supported project for the expansion of the radio coverage to 8 provinces of Afghanistan.
-•	Designed and presented live show “Give Me 5” reaching Afghan youth 3 times a week with educational and entreating content in English.
-• Designed and presented live show “Give Me 5” reaching Afghan youth 3 times a week with the educational and entertaining content in English
+The responsibilities covered building the client base, sales and marketing, organization of events and donor relationship management, as well as presenting a live radio show.
 
 :poland: **CEBOS Public Opinion Research Centre** (Mar 2011 to Dec 2011) Warsaw, Poland
 
