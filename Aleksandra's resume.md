@@ -15,7 +15,9 @@
 [Education ](#education)
 
 
-I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations of aid interventions - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
+I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python.
+
+I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations of aid interventions - in Afghanistan and in the multi-country settings. I provided actionable and human-centred insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
 </div>
 
@@ -30,23 +32,27 @@ I am an early career software developer seeking a new challenge on my path towar
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
 |--|--|--|--|--|
-|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Now in Alpha! | 2 weeks | Python - Language Development, Unittest - Testing Framework |  Work in progress|
+|<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Great experience in building developers tools. | 2 weeks | Python - Language Development, Unittest - Testing Framework |  Work in progress|
 |<a href="https://github.com/lucianmot/acebook-off-the-rails ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Devise - User Authentication, RubyCritic - Code Quality Analyser, Travis - CI, Heroku - Cloud Hosting, Bulma-Rails - CSS & Styling, SimpleCov - Code Coverage | https://acebook-off-the-rails.herokuapp.com |
-
+|<a href="https://github.com/lucianmot/f.rest">Arduino speaks in Morse Code</a> | Personal project. Programmed Arduino Uno to blink "hello world", following the rules of the Morse Code. This project reflects my curiosity about the hardware.| 2 weeks | Arduino dialect of C/C++ | <a href="https://github.com/lucianmot/f.rest"> YouTube video presentation</a> |
 
 ## Skills & Attitudes
 
 #### Analytical thinker and creative problem solver
-During my work as a monitoring and evaluation consultant, I created designs of large-scale social studies, overseen data collections, analysed findings, and provided recommendations for donors and implementers of the aid and development projects. I gladly transferred my approach from writing evaluation reports to writing code - the appreciation for a deep understanding of the tasks at hand, the ability to divide complex information landscapes into small and actionable chunks, and the focus on the well-planned solutions.
+During my work as a monitoring and evaluation consultant, the essence of my tasks was asking the right questions in the simplest possible manner, and gaining insights - quickly.
+
+I created designs of country-wide social studies, conducted data collections in challenging environments, analysed findings, and provided recommendations for donors and implementers of the aid and development projects.
+
+I gladly transferred my approach from writing evaluation reports to writing code - the appreciation for a deep understanding of the tasks at hand, the ability to divide complex information landscapes into small and actionable chunks, and the focus on the well-planned solutions.
 
 #### Curious and passionate about technology
-In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, bringing together media outlets and software developers from across Afghanistan to build web and mobile applications within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
+In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, that brought together media outlets and software developers from across Afghanistan to build web and mobile applications within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
 
-Since then, I participated in Warsaw's edition of Geek Girls Carrot workshop learning basics of Python, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019.
+Since then, I participated in Warsaw's edition of Django Girls Carrot workshop learning basics of Python/Django, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019. After graduation in August 2019, I focused on my own projects including the those in the realm of hardware with the use of Arduino Uno.
 
 #### Avid, fast and independent learner
 
-Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore multiple disciplines the academic settings: anthropology, media, and economics. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade. Recently, I enjoyed the self-led curriculum at Makers Academy that allowed me to learn software development hands-on, solving new problems using industry best practice.
+Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore multiple disciplines the academic settings: anthropology, media, and economics. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade. Recently, I enjoyed the self-led curriculum at Makers Academy that allowed me to learn software development hands-on, solving new problems using industry best practices.
 
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, develop functioning applications and solutions, and most importantly create great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
@@ -59,12 +65,13 @@ While working as an evaluator subcontracting for the London-based Coffey Interna
 
 During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development with the use:
 * Ruby, RSpec, Rails, Capybara, Sinatra
-* JavaScript, jQuery, Jasmin
+* JavaScript, jQuery, Node.js, Jasmin
 * Python, Unittest
 * PostgreSQL
+* Continuous Integration with Travis
 * Version control through Git and GitHub
 
-I acquired the ability and appreciation for pair programming. I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.
+I acquired the ability and appreciation for pair programming. I am familiar with modeling along the MVC lines, and creating applications following the principles of object-oriented programming.
 
 I worked in three self-organising teams leaning on the agile methodology principles.
 
@@ -84,7 +91,7 @@ Graudated with: 4.61/5.0
 #### University of Warsaw, Institute of Ethnology and Anthropology of Culture (Oct 2006 - Jun 2009)
 **BA in Ethnology and Anthropology of Culture**
 
-* Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Unkrainian during the research.
+* Research and thesis about the tension between post-Soviet Ukrainian identity and religion. 2,5 years long fieldwork in Ukraine, Bojkivshchyna, West Karpaty Mountains. Learnt Ukrainian during the research.
 * Published results of the research in the joint book publication “ON THE BORDERLAND OF <NEW EUROPE>. POLISH – UKRAINIAN NEIGHBORHOOD”, Red. M. ZOWCZAK, Warsaw, 2010
 
 Graduated wih 4.18/5.0
