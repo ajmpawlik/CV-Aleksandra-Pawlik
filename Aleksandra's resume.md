@@ -34,7 +34,7 @@ I am building on my experience in research for international development. I mana
 |--|--|--|--|--|
 |<a href="https://github.com/lucianmot/f.rest">Forest Programming Language</a> | The final team project for Makers. A Python-based, forest-themed programming language. Great experience in building developers tools. | 2 weeks | Python - Language Development, Unittest - Testing Framework |  Work in progress|
 |<a href="https://github.com/lucianmot/acebook-off-the-rails ">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Devise - User Authentication, RubyCritic - Code Quality Analyser, Travis - CI, Heroku - Cloud Hosting, Bulma-Rails - CSS & Styling, SimpleCov - Code Coverage | https://acebook-off-the-rails.herokuapp.com |
-|<a href="https://github.com/lucianmot/f.rest">Arduino speaks in Morse Code</a> | Personal project. Programmed Arduino Uno to blink "hello world", following the rules of the Morse Code. This project reflects my curiosity about the hardware.| 2 weeks | Arduino dialect of C/C++ | <a href="https://github.com/lucianmot/f.rest"> YouTube video presentation</a> |
+|<a href="https://www.youtube.com/watch?v=CPVrFV4vRrw">Arduino speaks in Morse Code</a> | Personal project. Programmed Arduino Uno to blink "hello world", following the rules of the Morse Code. This project reflects my curiosity about the hardware.| 2 evening | Arduino dialect of C/C++ | <a href="https://github.com/lucianmot/f.rest"> YouTube video presentation</a> |
 
 ## Skills & Attitudes
 
