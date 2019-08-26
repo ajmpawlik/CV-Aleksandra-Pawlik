@@ -48,7 +48,7 @@ I gladly transferred my approach from writing evaluation reports to writing code
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, that brought together media outlets and software developers from across Afghanistan to build web and mobile applications within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
 
-Since then, I participated in Warsaw's edition of Django Girls Carrot workshop learning basics of Python/Django, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019. After graduation in August 2019, I focused on my own projects including the those in the realm of hardware with the use of Arduino Uno.
+Since then, I participated in Warsaw's edition of women-in-tech Django Girls workshop learning basics of Python/Django, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019. After graduation in August 2019, I focused on my own projects including the those in the realm of hardware with the use of Arduino Uno.
 
 #### Avid, fast and independent learner
 
