@@ -112,6 +112,7 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 ## Experience
 
 **Alfa Financial Software** (Sep 2019 to Current) London, United Kingdom
+
 *__Junior Software Engineer__*
 
 Contributes to the development of the leading asset finance software as a member of the engineering team. Adds new features in line with clients’ requirements and product vision, and contributes to solving issues reported internally and by clients. Also, during the 5-month assignment in the Modularisation Team contributed to implementing the architectural solution to create a more modular codebase and developing CodeGraph software that allows for the maintenance of the modular approach. The tech stack includes Java 8 and Java 11, Groovy, Mockito, PostgreSQL, MySQL, ApacheMq, SoapUI, Git, SVN.
