@@ -111,7 +111,21 @@ International Labour Migration: Economics, Politics and Ethics (Short Course)
 
 ## Experience
 
-:uk: **Coffey, A TETRA TECH Company** (Dec 2016 to Apr 2019) London, United Kingdom
+**Alfa Financial Software** (Sep 2019 to Current) London, United Kingdom
+*__Junior Software Engineer__*
+
+Contributes to the development of the leading asset finance software as a member of the engineering team. Adds new features in line with clients’ requirements and product vision, and contributes to solving issues reported internally and by clients. Also, during the 5-month assignment in the Modularisation Team contributed to implementing the architectural solution to create a more modular codebase and developing CodeGraph software that allows for the maintenance of the modular approach. The tech stack includes Java 8 and Java 11, Groovy, Mockito, PostgreSQL, MySQL, ApacheMq, SoapUI, Git, SVN.
+
+Leads the innovation team that works on the Alfa Glossary App, a web-app glossary of asset finance terms that will allow new-joiners to check the meaning of the industry-specific terminology. The easier access to definitions intends to speed up the onboarding process. I recognized the need for this tool during my first month at Alfa and organized a team of four to deliver it under the Alfa Innovation programme. Tech stack includes Java with Spring Boot for backend and JavaScript with React for frontend. We temporarily deployed the trial version on Heroku, but it will soon move to Alfa’s servers.
+
+Leads the evaluation research for Alfa’s induction process. With consideration of my past experience, I have been entrusted to design and implement a feedback gathering mechanism for the 10-week induction program. 
+
+Delivered a talk at the company meeting presenting what it means to be “Thinking like an anthropologist” and showed the value of anthropological reflection within tech-enterprise.
+
+Under the umbrella of Alfa’s CSR activities, volunteered with Code Your Future, providing coaching for programming adepts from disadvantaged backgrounds – JavaScript, and conducting mock job interviews. 
+
+
+🇬🇧**Coffey, A TETRA TECH Company** (Dec 2016 to Apr 2019) London, United Kingdom
 
 *__External Consultant - Qualitative Research Specialist__*
 
@@ -123,7 +137,7 @@ I trained enumerators in the research methods and the use of research tools incl
 
 Also, I facilitated workshops with data analysts to train in the use of Dedoose qualitative data exploration tool
 
-:afghanistan::netherlands: **Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands
+**Wageningen UR, Centre for Development Innovation, ATVET** (Jan 2014 - Aug 2016) Kabul, Afghanistan / Wageningen, Netherlands
 
 *__Monitoring and Evaluation Adviser__*  
 
