@@ -15,11 +15,9 @@
 [Education ](#education)
 
 
-I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python.
+As an early career software engineer at Alfa Financial Software, I use Java to build industry-leading asset finance software for banks and automotive producers. I graduated from programming bootcamp Makers Academy where I have developed skills in Ruby, Python, and JavaScript. I am building on my research experience for international development, in Afghanistan and in multi-country settings, where I have been designing and conducting evaluations of aid and humanitarian projects. I provided actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
 
-I am building on my experience in research for international development. I managed, designed and consulted on multiple evaluations of aid interventions - in Afghanistan and in the multi-country settings. I provided actionable and human-centered insights for the implementers and clients. I am qualitative and quantitative research methods savvy with a background in anthropology, media, and economics.
-
-I am passionate about learning new tools and technologies - currently working on hardware projects with the use of Arduino in C/C++ dialect.
+I am passionate about learning new tools and technologies: developing in Java or pusuing small hardware projects with the use of Arduino in C/C++ dialect or Rasberry Pi.
 
 </div>
 
@@ -50,16 +48,20 @@ I gladly transferred my approach from writing evaluation reports to writing code
 #### Curious and passionate about technology
 In 2013, I participated in the implementation of the USAID funded Kabul Innovation Lab, that brought together media outlets and software developers from across Afghanistan to build web and mobile applications within the tech-for-good approach. Observing the collaboration between programmers and media lead me to see coding as an exciting avenue to explore - with its creative aspects, and the potential to make a positive impact.
 
-Since then, I participated in Warsaw's edition of women-in-tech Django Girls workshop learning basics of Python/Django, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019. After graduation in August 2019, I focused on my own projects including the those in the realm of hardware with the use of Arduino Uno.
+I participated in Warsaw's edition of women-in-tech Django Girls workshop learning basics of Python/Django, contributed to work of a London-based blockchain start-up focused on biometric identification helping to navigate their understanding of international aid and development in the context of prospective contracts, and finally joined Makers in May 2019. After graduation in August 2019, I focused on my own projects including the those in the realm of hardware with the use of Arduino Uno.
+
+Since I started working as a Junior Software Engineer in Alfa Financial Software, I took every opportunity to learn new tech stack - Java 8 and Java 11 with Mockito during my everyday tasks, Spring Boot and basics of React for my innovation project - a glossary app for asset finance terminology, Docker, upskilling in SQL and more.   
 
 #### Avid, fast and independent learner
-
-Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore multiple disciplines the academic settings: anthropology, media, and economics. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade. Recently, I enjoyed the self-led curriculum at Makers Academy that allowed me to learn software development hands-on, solving new problems using industry best practices.
+Curiosity, thirst for understanding, and a desire for intellectual growth are at the very core of what lead me to explore multiple disciplines the academic settings: anthropology, media, and economics. I applied my knowledge in practice through work as a researcher/monitoring and evaluation consultant - drawing from the skillset of anthropologist and economist, as well as in radio and print applying the tools of journalistic trade. I enjoyed the self-led curriculum at Makers Academy that allowed me to learn software development hands-on, solving new problems using industry best practices.
 
 #### Great collaborator and team-builder
 I thrive in teams. During my time at Makers, I have been a member of the self-organising teams following the agile principles. It was an opportunity to learn, to develop functioning applications and a programming language, and most importantly to create a great working culture. With my colleagues we captured the spirit of teamwork on the two vlog channels, <a href="https://www.youtube.com/watch?v=QyjI074rbqE"> Forest programming language development </a> and <a href="https://www.youtube.com/watch?v=6fr4jZW9YTg&feature=youtu.be"> the work on the Rails project</a>.
 
-While working as an evaluator subcontracting for the London-based Coffey International Development, I have been in charge of task-focused teams comprised of contractors working remotely and of the external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face.
+While working as an evaluator subcontracting for the London-based Coffey International Development, I have been in charge of task-focused teams comprised of contractors working remotely and of the external parties. It allowed me to learn how to manage and collaborate across different time-zones and cultures without the comfort of developing relationships face to face. This ability became very useful during the Covid-19 pandemic.  
+
+#### Keen to pass on the knowledge
+Under the umbrella of Alfa’s CSR activities, I volunteered with Code Your Future, providing coaching for programming adepts from disadvantaged backgrounds – JavaScript, and conducting mock job interviews. In my work - and life - I am aiming at making a positive impact. After years of work in international aid and development, I especially cherish the opportunity that technology brings to level the playing field for the persons who experienced hardships. 
 
 ## Education
 
